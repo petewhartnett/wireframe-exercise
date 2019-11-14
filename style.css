@@ -1,0 +1,62 @@
+
+/*  Citaion: For this assignment research was done at stack overflow, W3schools, and
+CSS tricks. Nothing was copied but used for research and inspiration  */
+
+.navItem{
+display: block;
+color:black;
+text-align:right;
+text-decoration:none;
+padding: 30px;
+float:left;
+}
+
+
+ul{
+background-color: grey;
+overflow:hidden;
+list-style:none;
+}
+
+
+.thirdRow{
+position:relative;
+text-align:center;
+}
+
+.images{
+display:inline-block;
+margin: 30px;
+}
+
+#bigPhoto{
+text-align:center;
+margin: 30px;
+
+}
+
+.scroll-bar{
+background-color: lightcyan;
+width: 600px; 
+height: 250px; 
+overflow-x: hidden;
+overflow-y: scroll; 
+text-align: center; 
+}
+
+.sectionBanner{
+float:left;
+size: 450px;
+}
+
+.footer{
+padding:30px;
+margin: 30px;
+width:121%;
+margin-left: -90px;
+background-color:gray;
+float:left;   
+}
+
+
+
